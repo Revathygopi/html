@@ -12,6 +12,7 @@
       const dup = new Set([1, 2, 3, 4, 5, 2, 2, 3]);
       const y = [...dup];
       console.log(y);
+
       //nested array to single array
       const arr = [[1, [2, 3], [4, [5, 6]], 7]];
       const array = [];
@@ -20,10 +21,9 @@
           array.push(arr[i][j]);
         }
       }
-      const array1=[].concat(...array)
-      const array2=[].concat(...array1)
+      const array1 = [].concat(...array);
+      const array2 = [].concat(...array1);
       console.log(array2);
-      
 
       //generate hexa codes
       const generate = function color() {
