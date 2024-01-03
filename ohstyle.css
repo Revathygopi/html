@@ -4,24 +4,25 @@ body {
 }
 
 
-.navigation{
+.navigation {
     display: flex;
     background-color: white;
     border-radius: 30px;
-    
-    text-align: center;
+
+
     position: fixed;
-    margin:0 500px ;
-    padding:10px;
+    margin: 0 500px;
+    padding: 10px;
 
 
 
 
 }
-.navigation .icon
-{
-    padding:0 30px;
+
+.navigation .icon {
+    padding: 0 30px;
 }
+
 .navigation .product {
     color: red;
     padding: 0 30px 0 40px;
@@ -54,7 +55,7 @@ header {
 
 header h1 {
     font-style: bold;
-    
+
     padding-left: 5px;
 
 
@@ -62,12 +63,12 @@ header h1 {
 
 header p {
 
-   
+
     padding-left: 5px;
 
 }
-.buttons
-{
+
+.buttons {
     text-align: center;
 }
 
@@ -75,7 +76,7 @@ header p {
     background-color: white;
     border-radius: 30px;
     color: black;
-    
+
 }
 
 .start-btn {
@@ -86,10 +87,10 @@ header p {
 }
 
 .images {
-   
+
     margin-top: 20px;
     border-radius: 20px;
-    text-align:center;
+    text-align: center;
 }
 
 .images .dashboard {
@@ -100,7 +101,7 @@ header p {
 
 .clientele {
     text-align: center;
-  
+
 }
 
 .clientele img {
@@ -128,13 +129,7 @@ header p {
 
 .backgroundimage {
 
- 
+
     border-radius: 50px;
 
 }
-
-   
-    
-    
-    
-    
