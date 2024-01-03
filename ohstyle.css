@@ -1,0 +1,140 @@
+body {
+
+    background-color: rgb(196, 208, 212);
+}
+
+
+.navigation{
+    display: flex;
+    background-color: white;
+    border-radius: 30px;
+    
+    text-align: center;
+    position: fixed;
+    margin:0 500px ;
+    padding:10px;
+
+
+
+
+}
+.navigation .icon
+{
+    padding:0 30px;
+}
+.navigation .product {
+    color: red;
+    padding: 0 30px 0 40px;
+
+
+}
+
+.navigation .integration {
+    padding-right: 30px;
+    text-align: center;
+}
+
+.navigation .about {
+    padding-right: 30px;
+}
+
+
+.navigation .contact-btn {
+    background-color: white;
+    border-color: whitesmoke;
+    border-radius: 20px;
+
+
+}
+
+header {
+    padding: 50px 0 0 0;
+    text-align: center;
+}
+
+header h1 {
+    font-style: bold;
+    
+    padding-left: 5px;
+
+
+}
+
+header p {
+
+   
+    padding-left: 5px;
+
+}
+.buttons
+{
+    text-align: center;
+}
+
+.demo-btn {
+    background-color: white;
+    border-radius: 30px;
+    color: black;
+    
+}
+
+.start-btn {
+    border-radius: 30px;
+    background-color: orangered;
+    color: white;
+    margin-left: 30px;
+}
+
+.images {
+   
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align:center;
+}
+
+.images .dashboard {
+    border-radius: 10px;
+
+}
+
+
+.clientele {
+    text-align: center;
+  
+}
+
+.clientele img {
+
+    padding-right: 10px;
+}
+
+#offer {
+
+    color: orangered;
+
+}
+
+.clients {
+    background-color: peachpuff;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#content {
+
+    font-weight: 600;
+
+}
+
+.backgroundimage {
+
+ 
+    border-radius: 50px;
+
+}
+
+   
+    
+    
+    
+    
